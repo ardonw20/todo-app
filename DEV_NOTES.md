@@ -11,3 +11,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-29
 - Added inline documentation for core functions
+
+## 2026-05-13
+- Added type hints to helper functions
+- Addressed feedback from self code review
+- Fixed minor edge case in input handling
