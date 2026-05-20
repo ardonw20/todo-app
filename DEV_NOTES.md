@@ -19,3 +19,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Verified API endpoint response schema
+
+## 2026-05-20
+- Cross-checked behaviour against spec
